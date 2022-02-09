@@ -3,3 +3,4 @@ seaborn
 jupyter
 pandas
 numpy
+openpyxl
